@@ -1,0 +1,5 @@
+severe,mild,high,yes,flu
+no,severe,normal,yes,cold
+mild,mild,normal,yes,flu
+mild,no,normal,no,cold
+severe,severe,normal,yes,flu
