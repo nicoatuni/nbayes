@@ -1,4 +1,5 @@
-# COMP30027
+# Project 1
+#### By: Nico Dinata
 This repo contains project 1 for COMP30027 (Machine Learning). Implementation of a supervised and an "unsupervised" Naive Bayes learner.
 
 ## Dependencies
